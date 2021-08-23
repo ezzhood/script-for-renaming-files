@@ -1,0 +1,1 @@
+read script.js thats very straigthforward to understand
